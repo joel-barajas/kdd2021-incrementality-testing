@@ -30,7 +30,7 @@ We will provide first-hand lessons on developing and operationalizing such a pla
 4. [slides](presentations/inc_testing_part_4.pdf) Deployment at Scale: test cycle and case studies
 5. [slides](presentations/inc_testing_part_5.pdf) Emerging trends: identity challenges, industry trends and solutions
 
-Some of the papers cited in the slides are avaiable at the folder [papers/](papers)
+Some of the papers cited in the slides are avaiable at the folder [papers](papers/)
 
 The detailed outline of the tutorial is available [here](tutorial_detailed.pdf) as well as the tutorial ACM paper [here](kdd2021_inc_testing_tutorial.pdf).
 
