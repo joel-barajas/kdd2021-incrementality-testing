@@ -21,3 +21,17 @@ In the current tutorial, we propose a practical, grounded view in the incrementa
 - Incrementality testing evolution in the industry
 
 We will provide first-hand lessons on developing and operationalizing such a platform in a major combined DSP and ad network; these are based on running tens of experiments for up to two months each over the last couple of years. 
+
+## Outline and Presentations
+
+1. [slides](presentations/inc_testing_part_1.pdf) The basics: context and challenges
+2. [slides](presentations/inc_testing_part_2.pdf) Incrementality Testing: concepts, solutions and literature
+3. [slides](presentations/inc_testing_part_3.pdf) From concept to production: platform building, challenges, case studies
+4. [slides](presentations/inc_testing_part_4.pdf) Deployment at Scale: test cycle and case studies
+5. [slides](presentations/inc_testing_part_5.pdf) Emerging trends: identity challenges, industry trends and solutions
+
+Some of the papers cited in the slides are avaiable at the folder [papers](papers)
+
+The detailed outline of the tutorial is avilabler [here](tutorial_detailed.pdf) as well as the tutorial ACM paper [here](kdd2021_inc_testing_tutorial.pdf).
+
+Feedback welcome!! 
